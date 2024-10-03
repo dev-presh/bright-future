@@ -1,0 +1,121 @@
+body{
+    margin: 50px;
+}
+
+.nav{
+    display: flex;
+    gap: 70%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.trend{
+    color: orange;
+}
+.title{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 50%;
+    height: 35%;
+}
+.note{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 45px;
+}
+.notey{
+    display: flex;
+    gap: 40px;
+}
+.note2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: gray;
+    padding-top: 5px;
+}
+button{
+    color: white;
+    background-color: black;
+    margin-left: 14px;
+}
+.retro{
+    display: flex;
+    gap: 20px;
+    width: 20em;
+    height: 30em;
+}
+.laptop{
+    width: 20em;
+    height: 30em;
+}
+.main{
+    display: flex;
+}
+.two{
+    color: orange;
+    font-size: 30px;
+}
+.one{
+    color: orange;
+    font-size: 30px
+}
+.quote2{
+    color: orange;
+    cursor: pointer;
+}
+
+.quotes{
+    color: gray;
+    font-size: 12px;
+}
+.playstation{
+    width: 20em;
+    height: 30em;
+}
+button{
+    border: 2px solid black;
+    width: 50%;
+    height: 30%;
+}
+.new{
+    border: 2px solid black;
+    background-color: black;
+    height: 80%;
+    width: 30%;
+    margin-left: 30px;
+    color: white;
+}
+.flex{
+    display: flex;
+}
+h2{
+    color: orange;
+    margin-left: 4%;
+    font-size: 2em;
+}
+.orange{
+    color: orange;
+    margin-left: 4%;
+}
+p{
+    color: gray;
+    margin-left: 4%;
+}
+h3{
+    margin-left: 4%;
+}
+.no2{
+    display: flex;
+    gap: 20px;
+}
+
+@media (max-width: 780px) {
+    
+    
+}
